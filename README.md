@@ -14,13 +14,16 @@ and developing skills in Excel, SQL, and data visualization.
 - SQL
 - Data Visualization (Tableau/Power BI coming soon)
 - Python (beginner)
+- Goggle SpreadSheets
+- HTML
 
 ## 📂 Projects
 (Coming soon...)
 
 ## 📜 Certificates
-(Coming soon...)
+Goggle IT Fundamentals Certificate
+
 
 ## 📬 Contact
-- [LinkedIn](your-linkedin-link-here)
-- Email: your-email@example.com
+- [LinkedIn](www.linkedin.com/in/angel-dike-)
+- Email: praisedike5@gmail.com
