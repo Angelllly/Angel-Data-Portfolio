@@ -25,5 +25,5 @@ Goggle IT Fundamentals Certificate
 
 
 ## 📬 Contact
-- [LinkedIn](www.linkedin.com/in/angel-dike-)
+- www.linkedin.com/in/angel-dike-
 - Email: praisedike5@gmail.com
