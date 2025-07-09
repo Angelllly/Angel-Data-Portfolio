@@ -18,7 +18,7 @@ and developing skills in Excel, SQL, and data visualization.
 - HTML
 
 ## 📂 Projects
-(Coming soon...)
+https://github.com/Angelllly/Angel-Data-Portfolio/tree/main/sephora-customer-service
 
 ## 📜 Certificates
 Goggle IT Fundamentals Certificate
